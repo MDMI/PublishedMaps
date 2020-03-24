@@ -1,4 +1,4 @@
-![useful image](https://github.com/MDMI/PublishedMaps/blob/master/images/logo.png)
+![Logo](/images/logo.png)
 
 ## MDIX Maps
 For use in the [MDMI Transformation Service](https://github.com/MDMI/MDMITransformationService)
