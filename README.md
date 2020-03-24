@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## MDIX Maps
+
+Find us at [the MDIX website](https://www.mdixinc.com//).
+
 
 You can use the [editor on GitHub](https://github.com/MDMI/PublishedMaps/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
