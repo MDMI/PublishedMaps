@@ -1,5 +1,3 @@
-![Logo](/images/logo.png)
-
 ## MDIX Maps
 For use in the [MDMI Transformation Service](https://github.com/MDMI/MDMITransformationService)
 
