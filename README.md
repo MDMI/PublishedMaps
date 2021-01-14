@@ -1,6 +1,2 @@
 ## MDIX Maps
-For use in the [MDMI Transformation Service](https://github.com/MDMI/MDMITransformationService)
-
-MDIX are the MDMI experts. Our team defines the leading edge of model driven health information interoperability.
-
-Find out more at [the MDIX website](https://www.mdixinc.com//).
+For use in the [MDMI Transformation Service](https://github.com/MDMI/MDMITransformationService), the MDMI Map Repository contains published maps for industry standard healthcare exchange standards, with the current focus on HL7 standards. Maps available are for the FHIR, CDA and V2 standards. For each standard, different maps are provided based on different versions of the standard and different content specifications. For example different Profiles in FHIR, different documents in CDA, and different message types in V2. 
